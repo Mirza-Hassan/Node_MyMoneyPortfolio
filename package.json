@@ -1,0 +1,26 @@
+{
+  "name": "mymoney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "geektrust.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirza-Hassan/Node_MyMoneyPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirza-Hassan/Node_MyMoneyPortfolio/issues"
+  },
+  "homepage": "https://github.com/Mirza-Hassan/Node_MyMoneyPortfolio#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
