@@ -6,7 +6,7 @@ Implement a portfolio rebalancing system for 'MyMoney', facilitating investors t
 
 1. Clone repository: `git clone https://github.com/Mirza-Hassan/Node_MyMoneyPortfolio.git`
 2. Install dependencies: `npm install`
-3. Test locally: `npm local` (reads input from input.txt), then run `node geektrust.js .\input1.txt`
+3. Test locally (reads input from input.txt), then run `node geektrust.js .\input1.txt`
 
 # Unit Testing
 
